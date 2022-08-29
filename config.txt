@@ -1,23 +1,23 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "",
+"app_id": "wx86eb991ec907ed45",
 # 公众号appSecret
-"app_secret": "",
+"app_secret": "d4ace78a6201c7629dc3a2629e7fb258",
 # 模板消息id
-"template_id": "",
+"template_id": "G3isx11v5sotMUry0PG6j2_0oljk7pqmntuWZajyE3E",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": [""],
+"user": ["o_Ecj55Hvy146oq3MZrULv9y4xH4","o_Ecj5_JPzXLmhyOhoppRF9qVff8","o_Ecj58cOOC4JhMC35ecsfWwJQZI"],
 
 # 信息配置
 # 所在省份
-"province": "广东",
+"province": "新疆",
 # 所在城市
-"city": "广州",
+"city": "乌鲁木齐",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
-"birthday1": {"name": "小宝", "birthday": "r1997-07-20"},
+"birthday1": {"name": "小姜", "birthday": "1991-08-14"},
 # 生日2
-"birthday2": {"name": "小林", "birthday": "1997-08-18"},
+"birthday2": {"name": "小徐", "birthday": "1994-01-30"},
 # 在一起的日子，格式同上
-"love_date": "2022-01-01"
+"love_date": "2018-08-08"
 }
